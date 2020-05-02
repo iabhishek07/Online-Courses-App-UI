@@ -6,4 +6,4 @@ A new Flutter project made to develop User Interface of Courses App
 
 |                   1.                      |                       2                        |
 | :---------------------------------------: | :--------------------------------------------: |
-| <img src="/HomeScreen.png" height="500em"/>   | <img src="/DetailsScreen.png" height="500em"/> |
+| <img src="/HomeScreen.png" height="500em"/>|<img src="/DetailsScreen.png" height="500em"/> |
